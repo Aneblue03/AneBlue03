@@ -23,7 +23,7 @@
   <img align="center" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 
 ## ESTATISTICAS 
-![/annaDahra GitHub stats](https://github-readme-stats.vercel.app/api?username=aneblue03&show_icons=true)
+![/annaDahra GitHub stats](https://github-readme-stats.vercel.app/api?username=Aneblue03&show_icons=true)
 
 ## REDES SOCIAIS QUE USO
 
