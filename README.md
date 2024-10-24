@@ -22,7 +22,8 @@
   <img align="center" alt="ANDROID" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img align="center" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 
-
+## ESTATISTICAS 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 ## REDES SOCIAIS QUE USO
 
